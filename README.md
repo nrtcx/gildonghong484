@@ -6,8 +6,8 @@
 
 | 프로젝트 | 설명 |
 |---|---|
-| [noritur-widgets](https://github.com/gildonghong484/noritur-widgets) | 스크립트 한 줄로 붙이는 스포츠 위젯 모음. 라이브스코어 · 리그 순위표 · 프로토 회차 리포트 · 주간 이변 지수 · 배당 계산기 8종 |
-| [데모 페이지](https://gildonghong484.github.io/noritur-widgets/) | 위젯이 실제로 동작하는 모습 |
+| [noritur-widgets](https://github.com/nrtcx/noritur-widgets) | 스크립트 한 줄로 붙이는 스포츠 위젯 모음. 라이브스코어 · 리그 순위표 · 프로토 회차 리포트 · 주간 이변 지수 · 배당 계산기 8종 |
+| [데모 페이지](https://nrtcx.github.io/noritur-widgets/) | 위젯이 실제로 동작하는 모습 |
 
 ### 놀이터 채널
 
@@ -25,4 +25,4 @@
 - [주간 이변 지수](https://nrt.cx/p/sports/upsets)
 - [배당 계산기](https://nrt.cx/p/calc)
 
-위젯 관련 문의나 버그는 [noritur-widgets 이슈](https://github.com/gildonghong484/noritur-widgets/issues)로 남겨 주세요.
+위젯 관련 문의나 버그는 [noritur-widgets 이슈](https://github.com/nrtcx/noritur-widgets/issues)로 남겨 주세요.
